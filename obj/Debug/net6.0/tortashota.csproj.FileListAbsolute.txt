@@ -1,0 +1,14 @@
+C:\Users\Тимофей\source\repos\tortashota\tortashota\bin\Debug\net6.0\tortashota.exe
+C:\Users\Тимофей\source\repos\tortashota\tortashota\bin\Debug\net6.0\tortashota.deps.json
+C:\Users\Тимофей\source\repos\tortashota\tortashota\bin\Debug\net6.0\tortashota.runtimeconfig.json
+C:\Users\Тимофей\source\repos\tortashota\tortashota\bin\Debug\net6.0\tortashota.dll
+C:\Users\Тимофей\source\repos\tortashota\tortashota\bin\Debug\net6.0\tortashota.pdb
+C:\Users\Тимофей\source\repos\tortashota\tortashota\obj\Debug\net6.0\tortashota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тимофей\source\repos\tortashota\tortashota\obj\Debug\net6.0\tortashota.AssemblyInfoInputs.cache
+C:\Users\Тимофей\source\repos\tortashota\tortashota\obj\Debug\net6.0\tortashota.AssemblyInfo.cs
+C:\Users\Тимофей\source\repos\tortashota\tortashota\obj\Debug\net6.0\tortashota.csproj.CoreCompileInputs.cache
+C:\Users\Тимофей\source\repos\tortashota\tortashota\obj\Debug\net6.0\tortashota.dll
+C:\Users\Тимофей\source\repos\tortashota\tortashota\obj\Debug\net6.0\refint\tortashota.dll
+C:\Users\Тимофей\source\repos\tortashota\tortashota\obj\Debug\net6.0\tortashota.pdb
+C:\Users\Тимофей\source\repos\tortashota\tortashota\obj\Debug\net6.0\tortashota.genruntimeconfig.cache
+C:\Users\Тимофей\source\repos\tortashota\tortashota\obj\Debug\net6.0\ref\tortashota.dll
